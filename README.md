@@ -56,16 +56,6 @@ I'm a **Software Engineer** from 🇮🇳 India who loves solving real-world pro
 
 ---
 
-### 🐍 GitHub Activity Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gm0202/gm0202/blob/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gm0202/gm0202/blob/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub Contribution Snake" src="https://github.com/gm0202/gm0202/blob/output/github-contribution-grid-snake.svg" />
-</picture>
-
----
-
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -83,3 +73,14 @@ I'm a **Software Engineer** from 🇮🇳 India who loves solving real-world pro
 
 ### 💡 Fun Fact
 I love combining **tech + empathy** — code is most powerful when it's human-centered. 💙
+
+---
+
+### 🐍 GitHub Activity Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/gm0202/gm0202/blob/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/gm0202/gm0202/blob/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub Contribution Snake" src="https://github.com/gm0202/gm0202/blob/output/github-contribution-grid-snake.svg" />
+</picture>
+
