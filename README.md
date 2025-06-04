@@ -88,10 +88,17 @@
 
 ---
 
-### 🐍 Contribution Snake
+### 🐍 My Contribution Snake
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gm0202/gm0202/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gm0202/gm0202/output/github-snake.svg" />
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/gm0202/gm0202/output/github-snake.svg" />
+</picture>
+
+<!-- Optional: Display ocean-themed GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/gm0202/gm0202/output/github-contribution-grid-snake-dark.svg" />
+  <img alt="github contribution snake gif" src="https://raw.githubusercontent.com/gm0202/gm0202/output/github-snake-ocean.gif" />
 </p>
 
 ---
