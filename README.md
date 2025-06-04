@@ -1,5 +1,5 @@
 <h2 align="left">Hi, I'm Gaurang Jayant Mishra</h2>
-<img align="right" height="150" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3RtODVxOWV5emVnYWl4NXZzZzQ5dncwOGNlaGUzeHp4cm4zd2xlbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9dg/9zn5QnaEZuDlXtGAPZ/giphy.gif" />
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnlyY3lpdXVjMWZ6eTByZHhtOXZncjU3Nm54eXZ1cWJqZjR6bWw4ayZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BQso6EW8N8CpDCpTe8/giphy.gif" />
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" />
