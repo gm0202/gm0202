@@ -58,7 +58,7 @@ I'm a **Software Engineer** from 🇮🇳 India who loves solving real-world pro
 
 ### 📈 Visitor Counter
 
-![Visitor Count](https://komarev.com/ghpvc/?username=gm0202&label=Profile%20Views&color=blue&style=flat-square)
+![Visitor Count](https://profile-counter.glitch.me/gm0202/count.svg)
 
 ---
 
